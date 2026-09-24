@@ -3,8 +3,8 @@
 build
 dist
 tests
+metawipe_local.egg-info
 
 #Files
 __pycache__
 test_metadata.py
-criar_exe_windows.bat
